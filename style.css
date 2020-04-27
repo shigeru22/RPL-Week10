@@ -1,0 +1,27 @@
+body {
+    background-color: #eeeeee;
+    font-family: Arial;
+}
+            
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li h2 {
+    display: block;
+    color: white;
+    padding: 0px 20px;
+    text-decoration: none;
+}
+            
+p {
+    text-align: center;
+}
