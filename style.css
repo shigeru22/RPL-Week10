@@ -15,18 +15,20 @@ li {
     float: left;
 }
 
-li h2, a {
+li h2 {
     display: block;
     color: white;
     padding: 0px 20px;
-}
-
-li h2 {
     text-decoration: none;
 }
 
-li a {
+li.links {
 	padding-top: 25px;
+	padding-left: 10px;
+}
+
+a {
+	color: white;
 }
             
 p {
