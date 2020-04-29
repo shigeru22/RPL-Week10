@@ -15,11 +15,18 @@ li {
     float: left;
 }
 
-li h2 {
+li h2, a {
     display: block;
     color: white;
     padding: 0px 20px;
+}
+
+li h2 {
     text-decoration: none;
+}
+
+li a {
+	padding-top: 25px;
 }
             
 p {
