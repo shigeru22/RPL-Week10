@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="jeremy.html">
+    <link href="style.css">
+  </head>
+  <body>
+    <div class="link">
+      <a href="jeremy.html">
+    </div>
+    <div class="body">
+      <div class="name">
+        Hans
+      </div>
+      <div class="stuff">
+        I liek memes
+      </div>
+     </div>
+  </body>
+</html>
